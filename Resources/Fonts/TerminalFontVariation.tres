@@ -1,0 +1,6 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://kfq47l704xue"]
+
+[ext_resource type="FontFile" uid="uid://dve3kgs8dkjfi" path="res://Resources/Fonts/video-terminal-screen.ttf" id="1_tyffd"]
+
+[resource]
+base_font = ExtResource("1_tyffd")
